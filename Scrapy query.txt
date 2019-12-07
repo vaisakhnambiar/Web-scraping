@@ -1,0 +1,1 @@
+scrapy crawl TweetScraper -a query="(#LondonShooting) lang:en since:2019-11-29"
